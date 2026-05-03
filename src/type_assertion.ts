@@ -29,8 +29,4 @@ console.log(result1, result2);
      message: string;
  }
 
-try{
 
-}catch{
-     console.log((error as CustomError).message)
-}
