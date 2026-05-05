@@ -71,7 +71,7 @@ class Rectangle extends Shape{
 
 
 const getArea=(param: Shape)=>{
-    console.log(  param.getArea();)
+    console.log(  param.getArea())
 }
 
   const shap1= new Shape();
